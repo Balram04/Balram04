@@ -60,8 +60,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**DevMeet**](https://helpmate.free.nf/?i=2) | A developer collaboration and meetup platform. | React, Node.js, MongoDB |
-| [**HelpMate**](https://balram04.github.io/HelpMate/) | On-demand home services platform (Urban Company Clone). | HTML, CSS, JS |
+| [**DevMeet**]() | A developer collaboration and meetup platform. | React, Node.js, MongoDB |
+| [**HelpMate**](https://helpmate.free.nf/?i=2) | On-demand home services platform (Urban Company Clone). | HTML, CSS, JS |
 | [**Weather App**](https://balram04.github.io/Weather-app/) | Real-time weather app using external API. | JS, HTML, CSS |
 | [**QR Code Generator**](https://balram04.github.io/Qr-code-Generator/) | Generates QR codes with a clean UI. | JavaScript, Tailwind |
 | [**Portfolio Website**](https://balram04.github.io/balramportfolio.github.io/) | My personal developer portfolio site. | HTML, CSS, JS |
