@@ -12,7 +12,7 @@
 
 - 🔭 Currently working on: **DevMeet** – a developer meetup app  
 - 🌱 Learning: **Next.js + TypeScript**  
-- 🔧 Tech Stack: React ⚛️ | Node.js 🟢 | Express 🚂 | MongoDB 🍃  
+- 🔧 Tech Stack: React ⚛️ | Node.js 🟢 | Express 🚂 | MongoDB 🍃 |🚢Docker |🎡Kubernetes | 🖇CI-CD pipelines  
 - 💡 Passionate about UI, clean code, and problem-solving  
 - 🌐 Portfolio: [Click Here](https://balram04.github.io/balramportfolio.github.io/)  
 - 📬 Reach me: **balramprajapati3263@gmail.com**
@@ -60,7 +60,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**DevMeet**](https://balram04.github.io/HelpMate/index.html) | A developer collaboration and meetup platform. | React, Node.js, MongoDB |
+| [**DevMeet**](https://dev-meet-frontend.vercel.app/login) | A developer collaboration and meetup platform. | React, Node.js, MongoDB |
 | [**HelpMate**](https://balram04.github.io/HelpMate/index.html) | On-demand home services platform (Urban Company Clone). | HTML, CSS, JS |
 | [**Weather App**](https://balram04.github.io/Weather-app/) | Real-time weather app using external API. | JS, HTML, CSS |
 | [**QR Code Generator**](https://balram04.github.io/Qr-code-Generator/) | Generates QR codes with a clean UI. | JavaScript, Tailwind |
