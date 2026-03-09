@@ -14,7 +14,7 @@
 - 🌱 Learning: **Next.js + TypeScript**  
 - 🔧 Tech Stack: React ⚛️ | Node.js 🟢 | Express 🚂 | MongoDB 🍃 |🚢Docker |🎡Kubernetes | 🖇CI-CD pipelines  
 - 💡 Passionate about UI, clean code, and problem-solving  
-- 🌐 Portfolio: [Click Here](https://balram04.github.io/balramportfolio.github.io/)  
+- 🌐 Portfolio: [Click Here](https://balraam.me)  
 - 📬 Reach me: **balramprajapati3263@gmail.com**
 
 ---
