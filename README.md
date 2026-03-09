@@ -61,7 +61,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**DevMeet**](https://www.devmeet.help/) | A developer collaboration and meetup platform. | React, Node.js, MongoDB, AWS, Docker, Jenkins |
-| [**MOTLUPETS**](https://www.motlupets.tech/) | Full stack end to end shopping platform. | React, Node.js, MongoDD, AWS, Razorpay|
+| [**MotluPets**](https://www.motlupets.tech/) | Full stack end to end shopping platform. | React, Node.js, MongoDD, AWS, Razorpay|
 | [**HelpMate**](https://balram04.github.io/HelpMate/index.html) | On-demand home services platform (Urban Company Clone). | HTML, CSS, JS |
 | [**Weather App**](https://balram04.github.io/Weather-app/) | Real-time weather app using external API. | JS, HTML, CSS |
 | [**QR Code Generator**](https://balram04.github.io/Qr-code-Generator/) | Generates QR codes with a clean UI. | JavaScript, Tailwind |
