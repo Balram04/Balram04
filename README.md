@@ -1,4 +1,4 @@
-<!-- HEADER -->
+  <!-- HEADER -->
 <h1 align="center">🚀 Balram Prajapati here!</h1>
 <h3 align="center">💻 MERN Stack Developer | 🌐 Tech Enthusiast | 🎯 Lifelong Learner</h3>
 
@@ -10,9 +10,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **DevMeet** – a developer meetup app  
-- 🌱 Learning: **Next.js + TypeScript**  
-- 🔧 Tech Stack: React ⚛️ | Node.js 🟢 | Express 🚂 | MongoDB 🍃 |🚢Docker |🎡Kubernetes | 🖇CI-CD pipelines  
+- 🔭 Currently working on: **Problem solving and Devops Tech**    
+- 🔧 Tech Stack: React ⚛️ | Node.js 🟢 | Express 🚂 | MongoDB 🍃 |🚢Docker |🎡Kubernetes | 🖇CI-CD pipelines | 🌧 AWS
 - 💡 Passionate about UI, clean code, and problem-solving  
 - 🌐 Portfolio: [Click Here](https://balraam.me)  
 - 📬 Reach me: **balramprajapati3263@gmail.com**
